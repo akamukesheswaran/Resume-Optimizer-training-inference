@@ -1,0 +1,934 @@
+Python
+JavaScript
+TypeScript
+Java
+C++
+C#
+Go
+Rust
+Swift
+Kotlin
+Ruby
+PHP
+Scala
+R
+MATLAB
+Julia
+Perl
+Haskell
+Erlang
+Elixir
+Clojure
+Dart
+Objective-C
+Assembly
+COBOL
+Fortran
+Lua
+Groovy
+F#
+VBA
+PowerShell
+HTML
+CSS
+SASS
+SCSS
+Less
+SQL
+NoSQL
+PL/SQL
+T-SQL
+Shell/Bash scripting
+Zsh
+React
+Angular
+Vue.js
+Svelte
+Ember.js
+Backbone.js
+Preact
+Solid.js
+Next.js
+Nuxt.js
+Remix
+Gatsby
+Astro
+Redux
+MobX
+Zustand
+Recoil
+Jotai
+Pinia
+VueX
+NgRx
+State management
+Context API
+Webpack
+Vite
+Rollup
+Parcel
+esbuild
+Turbopack
+Gulp
+Grunt
+Build tools
+Babel
+SWC
+Tailwind CSS
+Bootstrap
+Material-UI
+Ant Design
+Chakra UI
+Semantic UI
+Foundation
+Bulma
+Styled Components
+Emotion
+CSS Modules
+Responsive design
+Cross-browser compatibility
+Accessibility (a11y)
+ARIA
+Web performance optimization
+Progressive Web Apps (PWA)
+Service Workers
+Web Workers
+WebAssembly
+WebSockets
+Server-Sent Events
+WebRTC
+Node.js
+Express
+Fastify
+Koa
+Hapi
+NestJS
+Deno
+Bun
+Django
+Flask
+FastAPI
+Tornado
+Celery
+Spring Boot
+Spring Framework
+Hibernate
+Quarkus
+Micronaut
+.NET Core
+ASP.NET
+Entity Framework
+Ruby on Rails
+Sinatra
+Laravel
+Symfony
+CodeIgniter
+GraphQL
+Apollo GraphQL
+Relay
+REST API design
+SOAP
+gRPC
+tRPC
+Microservices architecture
+Serverless computing
+Lambda functions
+Cloud Functions
+Azure Functions
+API gateway
+Kong
+Apigee
+Rate limiting
+Throttling
+Circuit breaker pattern
+PostgreSQL
+MySQL
+MariaDB
+SQLite
+Microsoft SQL Server
+Oracle Database
+MongoDB
+CouchDB
+Couchbase
+Redis
+Memcached
+Cassandra
+ScyllaDB
+DynamoDB
+Firebase
+Firestore
+Neo4j
+ArangoDB
+InfluxDB
+TimescaleDB
+Elasticsearch
+Database design
+Normalization
+Denormalization
+ACID properties
+Query optimization
+Indexing
+B-tree
+Hash index
+Full-text search
+Database sharding
+Replication
+Master-slave replication
+Multi-master replication
+ORM (Object-Relational Mapping)
+Sequelize
+TypeORM
+Prisma
+SQLAlchemy
+Active Record
+Database migrations
+Schema design
+Database backup
+Point-in-time recovery
+Docker
+Kubernetes
+OpenShift
+Rancher
+Podman
+Container orchestration
+Docker Compose
+Docker Swarm
+Helm
+Kustomize
+CI/CD pipelines
+Jenkins
+GitHub Actions
+GitLab CI
+CircleCI
+Travis CI
+Bamboo
+TeamCity
+Azure DevOps
+ArgoCD
+Flux
+Spinnaker
+AWS
+EC2
+S3
+RDS
+Lambda
+ECS
+EKS
+CloudFront
+Route 53
+VPC
+IAM
+CloudWatch
+SNS
+SQS
+DynamoDB
+Aurora
+Redshift
+Athena
+Glue
+EMR
+SageMaker
+Azure
+Azure VM
+Azure App Service
+Azure SQL Database
+Azure Cosmos DB
+Azure Kubernetes Service
+Azure DevOps
+Azure Active Directory
+Azure Blob Storage
+Google Cloud Platform (GCP)
+Compute Engine
+Cloud Storage
+BigQuery
+Cloud Functions
+Cloud Run
+GKE
+Cloud SQL
+Cloud Pub/Sub
+Terraform
+Ansible
+Puppet
+Chef
+SaltStack
+CloudFormation
+Pulumi
+CDK (Cloud Development Kit)
+Infrastructure as Code
+Monitoring
+Prometheus
+Grafana
+Datadog
+New Relic
+Dynatrace
+AppDynamics
+Nagios
+Zabbix
+Logging
+ELK Stack (Elasticsearch, Logstash, Kibana)
+Splunk
+Fluentd
+Graylog
+Loki
+Load balancing
+Nginx
+HAProxy
+Traefik
+Envoy
+Auto-scaling
+Horizontal scaling
+Vertical scaling
+Blue-green deployment
+Canary deployment
+Rolling deployment
+Git
+GitHub
+GitLab
+Bitbucket
+Mercurial
+SVN (Subversion)
+Perforce
+Branching strategies
+Pull requests
+Merge requests
+Code review
+Merge conflict resolution
+Git workflows
+Gitflow
+Trunk-based development
+Feature flags
+Git hooks
+Unit testing
+Integration testing
+End-to-end testing
+Acceptance testing
+Smoke testing
+Regression testing
+Jest
+Mocha
+Jasmine
+Chai
+Pytest
+Unittest
+Nose
+JUnit
+TestNG
+NUnit
+xUnit
+Selenium
+Cypress
+Playwright
+WebdriverIO
+Puppeteer
+Test-driven development (TDD)
+Behavior-driven development (BDD)
+Cucumber
+SpecFlow
+Code coverage
+Istanbul
+JaCoCo
+Static analysis
+SonarQube
+ESLint
+Pylint
+Checkstyle
+PMD
+FindBugs
+RuboCop
+Performance testing
+Load testing
+Stress testing
+JMeter
+Gatling
+Locust
+K6
+Artillery
+Authentication
+Authorization
+OAuth
+OAuth 2.0
+OpenID Connect
+SAML
+JWT
+Session management
+Cookie management
+CORS
+CSRF protection
+XSS prevention
+SQL injection prevention
+Encryption
+Decryption
+AES
+RSA
+Hashing algorithms
+SHA-256
+MD5
+bcrypt
+Argon2
+HTTPS/SSL/TLS
+Certificate management
+PKI (Public Key Infrastructure)
+OWASP Top 10
+Security best practices
+Penetration testing
+Vulnerability assessment
+Security scanning
+SAST
+DAST
+Secure coding practices
+Input validation
+Output encoding
+Parameterized queries
+iOS development
+Xcode
+SwiftUI
+UIKit
+Combine
+Core Data
+Core Animation
+Android development
+Android Studio
+Jetpack Compose
+Kotlin Coroutines
+Room
+Retrofit
+Dagger
+Hilt
+React Native
+Flutter
+Ionic
+Xamarin
+Cordova
+PhoneGap
+Native development
+Hybrid app development
+Mobile UI/UX patterns
+Material Design
+Human Interface Guidelines
+App store deployment
+TestFlight
+Google Play Console
+Mobile performance optimization
+Mobile debugging
+Data structures
+Arrays
+Linked lists
+Stacks
+Queues
+Trees
+Binary trees
+BST
+AVL trees
+Red-black trees
+B-trees
+Heaps
+Hash tables
+Graphs
+Tries
+Algorithms
+Sorting algorithms
+Searching algorithms
+Graph algorithms
+Dynamic programming
+Greedy algorithms
+Divide and conquer
+Backtracking
+Recursion
+Iteration
+Big O notation
+Time complexity
+Space complexity
+Data modeling
+ETL processes
+ELT
+Data warehousing
+Data lakes
+Apache Spark
+PySpark
+Hadoop
+HDFS
+MapReduce
+Apache Flink
+Apache Kafka
+Apache Airflow
+Apache NiFi
+Databricks
+Snowflake
+Pandas
+NumPy
+Polars
+Dask
+Data wrangling
+Data cleaning
+Data transformation
+Data validation
+Data visualization
+Matplotlib
+Seaborn
+Plotly
+D3.js
+Chart.js
+Tableau
+Power BI
+Looker
+Metabase
+Big data technologies
+Data pipelines
+Stream processing
+Batch processing
+Real-time analytics
+TensorFlow
+Keras
+PyTorch
+JAX
+Scikit-learn
+XGBoost
+LightGBM
+CatBoost
+Hugging Face Transformers
+spaCy
+NLTK
+OpenCV
+Neural networks
+Convolutional Neural Networks (CNN)
+Recurrent Neural Networks (RNN)
+LSTM
+GRU
+Transformers
+BERT
+GPT
+Attention mechanisms
+Deep learning
+Supervised learning
+Unsupervised learning
+Reinforcement learning
+Transfer learning
+Fine-tuning
+Natural language processing (NLP)
+Computer vision
+Image classification
+Object detection
+Semantic segmentation
+Model training
+Model evaluation
+Hyperparameter tuning
+Cross-validation
+MLOps
+Model deployment
+Model serving
+Model monitoring
+Feature engineering
+Feature selection
+Data preprocessing
+Data augmentation
+Label encoding
+One-hot encoding
+Normalization
+Standardization
+Scalability
+High availability
+Fault tolerance
+Disaster recovery
+Distributed systems
+Consensus algorithms
+Paxos
+Raft
+CAP theorem
+BASE
+Eventual consistency
+Strong consistency
+Caching strategies
+Cache invalidation
+Write-through cache
+Write-back cache
+Cache-aside
+CDN
+CloudFlare
+Akamai
+Fastly
+Message queues
+RabbitMQ
+Amazon SQS
+Apache ActiveMQ
+ZeroMQ
+NATS
+Event-driven architecture
+Event sourcing
+CQRS
+Saga pattern
+Design patterns
+Creational patterns
+Singleton
+Factory
+Abstract Factory
+Builder
+Prototype
+Structural patterns
+Adapter
+Bridge
+Composite
+Decorator
+Facade
+Proxy
+Behavioral patterns
+Observer
+Strategy
+Command
+State
+Template Method
+Iterator
+SOLID principles
+Single Responsibility
+Open-Closed
+Liskov Substitution
+Interface Segregation
+Dependency Inversion
+DRY principle
+KISS principle
+YAGNI principle
+Clean Code
+Refactoring
+Code smells
+Technical debt
+System performance optimization
+Profiling
+Benchmarking
+Memory management
+Garbage collection
+Memory leaks
+CPU optimization
+I/O optimization
+Network optimization
+Agile
+Scrum
+Kanban
+Lean
+XP (Extreme Programming)
+SAFe
+Sprint planning
+Daily standups
+Sprint retrospectives
+Sprint reviews
+Backlog grooming
+Story points
+Velocity
+Burndown charts
+Pair programming
+Mob programming
+Documentation
+Technical writing
+API documentation
+README files
+Wikis
+Markdown
+Troubleshooting
+Debugging
+GDB
+LLDB
+Chrome DevTools
+Firefox DevTools
+Logging
+Log levels
+Root cause analysis
+Five Whys
+Fishbone diagram
+Postmortem analysis
+Jira
+Confluence
+Asana
+Linear
+Monday.com
+Trello
+ClickUp
+Azure Boards
+Slack
+Microsoft Teams
+Discord
+Zoom
+Notion
+Figma
+Sketch
+Adobe XD
+InVision
+Zeplin
+Miro
+Lucidchart
+Draw.io
+Postman
+Insomnia
+cURL
+HTTPie
+Swagger
+OpenAPI
+Redoc
+API Blueprint
+Embedded systems
+Microcontrollers
+Arduino
+Raspberry Pi
+ESP32
+RTOS
+FreeRTOS
+Firmware development
+C for embedded
+Hardware interfacing
+I2C
+SPI
+UART
+PWM
+ADC
+DAC
+Network engineering
+TCP/IP
+UDP
+HTTP
+HTTPS
+HTTP/2
+HTTP/3
+QUIC
+DNS
+DHCP
+FTP
+SSH
+SMTP
+IMAP
+POP3
+WebSockets
+VPN
+IPsec
+Subnetting
+VLAN
+Routing
+Switching
+Firewalls
+iptables
+Network troubleshooting
+Wireshark
+tcpdump
+Blockchain
+Ethereum
+Bitcoin
+Solidity
+Web3.js
+Ethers.js
+Smart contracts
+DApps
+NFTs
+Cryptocurrency
+Consensus mechanisms
+Proof of Work
+Proof of Stake
+Hyperledger
+Game development
+Unity
+Unreal Engine
+Godot
+Game engines
+C++ for games
+C# for Unity
+Physics engines
+Collision detection
+Game AI
+Shaders
+Graphics programming
+OpenGL
+Vulkan
+DirectX
+Metal
+WebGL
+Ray tracing
+Rendering
+3D modeling
+DevSecOps
+Security automation
+Vulnerability scanning
+Dependency scanning
+Secret management
+Vault
+Site reliability engineering (SRE)
+SLI
+SLO
+SLA
+Error budgets
+Incident response
+On-call rotation
+Chaos engineering
+Reliability testing
+Data engineering
+Data pipelines
+Data orchestration
+Data quality
+Data governance
+Data lineage
+Master data management
+Platform engineering
+Internal developer platforms
+Developer experience
+Self-service infrastructure
+Golden paths
+Service catalog
+Cloud architecture
+Multi-cloud
+Hybrid cloud
+Cloud migration
+Cloud cost optimization
+FinOps
+Solutions architecture
+Enterprise architecture
+System design
+Architecture patterns
+Service mesh
+Istio
+Linkerd
+Consul
+API design
+Versioning
+Pagination
+Filtering
+Sorting
+Error handling
+Webhooks
+WebSockets
+Long polling
+Short polling
+SSE
+gRPC streaming
+Protobuf
+Thrift
+Avro
+Message serialization
+JSON
+XML
+YAML
+TOML
+Binary formats
+Compression algorithms
+Gzip
+Brotli
+LZ4
+Zstandard
+Operating Systems
+Linux
+Ubuntu
+Debian
+CentOS
+Red Hat
+Fedora
+Alpine
+macOS
+Windows
+Unix
+System administration
+Package management
+apt
+yum
+dnf
+brew
+Process management
+Memory management
+File systems
+ext4
+XFS
+Btrfs
+ZFS
+NTFS
+Virtualization
+VMware
+VirtualBox
+Hyper-V
+QEMU
+KVM
+Proxmox
+Configuration management
+Environment variables
+Config files
+Secrets management
+Feature toggles
+A/B testing
+Multivariate testing
+Analytics
+Google Analytics
+Mixpanel
+Amplitude
+Segment
+Tag management
+SEO
+Web crawling
+Sitemap
+robots.txt
+Meta tags
+Schema markup
+Serverless architecture
+Edge computing
+Cloudflare Workers
+Lambda@Edge
+IoT
+MQTT
+CoAP
+LoRaWAN
+Zigbee
+Bluetooth
+BLE
+Wireless communication
+Regular expressions
+Text processing
+String manipulation
+Parsing
+Lexical analysis
+Syntax analysis
+Compilers
+Interpreters
+Transpilers
+AST (Abstract Syntax Tree)
+JIT compilation
+Memory safety
+Concurrency
+Multithreading
+Multiprocessing
+Async/await
+Promises
+Futures
+Coroutines
+Parallel processing
+Thread safety
+Race conditions
+Deadlocks
+Mutexes
+Semaphores
+Locks
+Atomic operations
+Functional programming
+Pure functions
+Immutability
+Higher-order functions
+Map
+Filter
+Reduce
+Lambda expressions
+Closures
+Object-oriented programming
+Classes
+Objects
+Inheritance
+Polymorphism
+Encapsulation
+Abstraction
+Interfaces
+Abstract classes
+Composition over inheritance
+Dependency injection
+Inversion of control
+Service locator
+Repository pattern
+Unit of Work
+MVC (Model-View-Controller)
+MVVM (Model-View-ViewModel)
+MVP (Model-View-Presenter)
+Reactive programming
+RxJS
+RxJava
+RxSwift
+Reactive Extensions
+Observables
+Streams
+Backpressure
