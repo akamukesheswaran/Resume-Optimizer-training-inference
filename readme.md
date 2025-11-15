@@ -16,4 +16,5 @@ in order to run the inference notebook, aka the "demo" notebook,
   2. you need to add a kaggle token. download from kaggle. call it: kaggle_token.json
   3. vocab.txt  from: inference_notebook_rltd/saved_models/data/vocab.txt
 
-- with these files, you can now run the training notebook. 
+- with these files, you can now run the training notebook.
+- The "validation" notebook is the same as the cse6363-Training.ipynb, it just has the validation cells at the end, too.
