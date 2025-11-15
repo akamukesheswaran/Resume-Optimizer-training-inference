@@ -9,5 +9,11 @@ in order to run the inference notebook, aka the "demo" notebook,
 - the last cell shows you the skill extraction and the matching
 
 - training notebook:
-- in order to run the training notebook, you need to download:
-- 1. 
+- name: CSE6363-Training.ipynb
+- how to run:
+- once you open it in google colab, do not run it yet. You need to add these files from this github first:
+- 1. UpdatedResumeDataset.csv
+  2. you need to add a kaggle token. download from kaggle. call it: kaggle_token.json
+  3. vocab.txt  from: inference_notebook_rltd/saved_models/data/vocab.txt
+
+- with these files, you can now run the training notebook. 
